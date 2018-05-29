@@ -10,7 +10,7 @@ const initialState = {
   selectedPlace: null
 };
 
-const reducer = (state = initialState, { type, payload }) => {
+const placesReducer = (state = initialState, { type, payload }) => {
   switch (type) {
     case ADD_PLACE:
       return {
@@ -50,4 +50,4 @@ const reducer = (state = initialState, { type, payload }) => {
   }
 };
 
-export default reducer;
+export default placesReducer;
