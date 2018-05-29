@@ -8,9 +8,7 @@ import {
 export const addPlace = placeName => {
   return {
     type: ADD_PLACE,
-    payload: {
-      placeName: placeName
-    }
+    placeName: placeName
   };
 };
 
@@ -23,9 +21,7 @@ export const deletePlace = () => {
 export const selectPlace = key => {
   return {
     type: SELECT_PLACE,
-    payload: {
-      placeKey: key
-    }
+    placeKey: key
   };
 };
 

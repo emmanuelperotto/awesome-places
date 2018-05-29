@@ -10,35 +10,34 @@ const initialState = {
   selectedPlace: null
 };
 
-const placesReducer = (state = initialState, { type, payload }) => {
-  switch (type) {
+const reducer = (state = initialState, action) => {
+  switch (action.type) {
     case ADD_PLACE:
       return {
         ...state,
         places: state.places.concat({
-          key: Math.random(), // not unique!! only for Demonstration
-          name: payload.placeName,
+          key: Math.random(),
+          name: action.placeName,
           image: {
             uri:
-              "https://1dib1q3k1s3e11a5av3bhlnb-wpengine.netdna-ssl.com/wp-content/uploads/2013/04/mosel-valley-de-uai-516x387.jpg"
+              "https://c1.staticflickr.com/5/4096/4744241983_34023bf303_b.jpg"
           }
         })
       };
-
     case DELETE_PLACE:
       return {
         ...state,
-        places: state.places.filter(
-          place => place.key !== state.selectedPlace.key
-        ),
+        places: state.places.filter(place => {
+          return place.key !== state.selectedPlace.key;
+        }),
         selectedPlace: null
       };
     case SELECT_PLACE:
       return {
         ...state,
-        selectedPlace: state.places.find(
-          place => place.key === payload.placeKey
-        )
+        selectedPlace: state.places.find(place => {
+          return place.key === action.placeKey;
+        })
       };
     case DESELECT_PLACE:
       return {
@@ -50,4 +49,4 @@ const placesReducer = (state = initialState, { type, payload }) => {
   }
 };
 
-export default placesReducer;
+export default reducer;
