@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/emmanuelperotto/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/50c4374a2eec3d13986880a355acc912/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "/home/emmanuelperotto/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/ffaf90c5dd30a314b4c7e18e5a159142/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "505"
+                    }
+                }
+            ]
+        }
+    ]
+}

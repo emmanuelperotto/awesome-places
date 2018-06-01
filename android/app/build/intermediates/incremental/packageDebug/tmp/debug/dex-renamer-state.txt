@@ -1,0 +1,4 @@
+#Fri Jun 01 00:01:55 BRT 2018
+base.0=/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

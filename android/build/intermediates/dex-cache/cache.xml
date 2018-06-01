@@ -3,30 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="/home/emmanuelperotto/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jar="/home/emmanuelperotto/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_fd1e350338f409aad1c1baa30e6e1349b6fba3e5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/courseproject/react-native-vector-icons/unspecified/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="001d8a96417bf5d83cb2759a3bb0d635101dda4c">
-        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/courseproject-react-native-vector-icons-unspecified_ff0ea95449807e2a9d491102c2852c21da424735.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
-        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_87a1a5bd21bd059c718fc6b2c389756ab8e96a54.jar" />
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_b97182519aba89f54b1b8ee1443d57a328e60c9a.jar" />
     </item>
     <item
         is-multidex="false"
@@ -39,12 +21,147 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_bb1f33fe62375751c509dfbf767c67b625461025.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_1adb0cb69fb4e8737d13b6ccb9bc3b31aab73bc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_974afd3c64b5becb04fad59aa61f7ec458543422.jar" />
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_5e92847ce486cbc87f5e51fbc6c50fa158dee5d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_5e92847ce486cbc87f5e51fbc6c50fa158dee5d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_e565b03f31affcb45968349187d920ed97c15ee7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_a89057afd7c252f4eb8bf94593ecb6e2f405e4fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_4274904655d9cc64b7870ee0424824f26d384deb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/2.0.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/com.aurelhubert-ahbottomnavigation-2.0.6_c3c3d93b0b7198a2d070430039a5dc05cfb6c03c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_62011799469fe1e685f27405544628e4414fb08f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_a89057afd7c252f4eb8bf94593ecb6e2f405e4fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_113a6d88d20a983e7a54ee7258439cde779ea058.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/courseproject/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="001d8a96417bf5d83cb2759a3bb0d635101dda4c">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/courseproject-react-native-vector-icons-unspecified_ff0ea95449807e2a9d491102c2852c21da424735.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_4709895535435ff763222046246d222563ec68c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_49775ff933e0ee74da0a262124a78ce7256822f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_d1ad0111d295ba006ba8c83bae1fb27754e873ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/courseproject/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="001d8a96417bf5d83cb2759a3bb0d635101dda4c">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/courseproject-react-native-vector-icons-unspecified_ff0ea95449807e2a9d491102c2852c21da424735.jar" />
     </item>
     <item
         is-multidex="false"
@@ -57,21 +174,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/emmanuelperotto/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_66af2df8e19714924fb62e78716c0e4cf6bb3f0d.jar" />
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_583eeb6d5824711c71029ea0d550963c5eed7ef5.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/emmanuelperotto/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jar="/home/emmanuelperotto/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
-        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_5e92847ce486cbc87f5e51fbc6c50fa158dee5d9.jar" />
+        revision="25.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_35a075be23fa8bbc2a8649de68a3eb3a25ce6e97.jar" />
     </item>
     <item
         is-multidex="false"
@@ -93,12 +210,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_a89057afd7c252f4eb8bf94593ecb6e2f405e4fd.jar" />
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_a7f9aa0a1bb37369aa47001e0cd7dd2917843cb7.jar" />
     </item>
     <item
         is-multidex="false"
@@ -111,12 +228,210 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jar="/home/emmanuelperotto/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_78b6d478ad8d772068adb46c3a325cd0ab6eb18e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_cd8a4ad9a9597b55270efc0a1d5305aaa9a92e5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_ee27121dfb0f7b1c1cd0a2e01b7c71bcb6f4ffdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_1772c09072f8068d729789bb0af666a50c78ecdc.jar" />
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_35a075be23fa8bbc2a8649de68a3eb3a25ce6e97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_bb1f33fe62375751c509dfbf767c67b625461025.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_87a9ae223553a642f7eb5a3dda6545f9865657aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_87a1a5bd21bd059c718fc6b2c389756ab8e96a54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_87a1a5bd21bd059c718fc6b2c389756ab8e96a54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_26ade55fb0f465ca17f392e6d63699c2623240f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_7baf6985c0d28b1a78479e1bccdd7754893dfa53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_66af2df8e19714924fb62e78716c0e4cf6bb3f0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu-toolbar/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-toolbar-1.5.4_dcf19c28679021f670f13da0d1b24f4c24485b25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_14d6772187be71486e77b086e45142460e557a0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_0075237b0072fb830d0c91e8927071c066e573c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/courseproject/react-native-navigation/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ef1f06ae99536d0380b01f3756cac973d4330942">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/courseproject-react-native-navigation-unspecified_0ba232af1f48b774d7367eb0caa2cbdf27363cc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_f74313a02ff5fa5b4a8f0cff07f610def1aa9c68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_fd1e350338f409aad1c1baa30e6e1349b6fba3e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-1.5.4_c59df9c8c91af33185c76b396c0cab2008ed0387.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_fd1e350338f409aad1c1baa30e6e1349b6fba3e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_4709895535435ff763222046246d222563ec68c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_0075237b0072fb830d0c91e8927071c066e573c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_62011799469fe1e685f27405544628e4414fb08f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_d8d8a31d75d2f5dc23263d9692f1cde1d09f3471.jar" />
     </item>
     <item
         is-multidex="false"
@@ -138,66 +453,39 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_62011799469fe1e685f27405544628e4414fb08f.jar" />
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_26041d1eb42185c390a0a2175a4cf55dd51ccbc4.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/emmanuelperotto/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_c7b1922c55f5acc7ab91cea4f95702e33ea5d356.jar" />
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_ede3607a8f55e1170fa62660d06af3c336c651d4.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jar="/home/emmanuelperotto/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_873ac3a67dc243b3b0bc36c2f09ad6c67a599ed7.jar" />
+        revision="25.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_66af2df8e19714924fb62e78716c0e4cf6bb3f0d.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/emmanuelperotto/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
-        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_0075237b0072fb830d0c91e8927071c066e573c8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/emmanuelperotto/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_35a075be23fa8bbc2a8649de68a3eb3a25ce6e97.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
-        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_4709895535435ff763222046246d222563ec68c6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
-        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_bb1f33fe62375751c509dfbf767c67b625461025.jar" />
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_68ddb0a06742abb5f661724bcc6b673a3727b2dc.jar" />
     </item>
 
 </items>
