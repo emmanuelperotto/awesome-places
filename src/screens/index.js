@@ -4,6 +4,7 @@ import SharePlaceScreen from "./SharePlaceScreen";
 import FindPlaceScreen from "./FindPlaceScreen";
 import configureStore from "../store/store";
 import { Provider } from "react-redux";
+import PlaceDetailScreen from "./PlaceDetailScreen";
 
 export function registerScreens() {
   const store = configureStore();
@@ -25,5 +26,9 @@ export function registerScreens() {
     () => FindPlaceScreen,
     store,
     Provider
+  );
+  Navigation.registerComponent(
+    "courseproject.PlaceDetailScreen",
+    () => PlaceDetailScreen
   );
 }
