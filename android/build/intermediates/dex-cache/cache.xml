@@ -12,6 +12,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/courseproject/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="001d8a96417bf5d83cb2759a3bb0d635101dda4c">
+        <dex dex="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/pre-dexed/debug/courseproject-react-native-vector-icons-unspecified_ff0ea95449807e2a9d491102c2852c21da424735.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/emmanuelperotto/Documents/coding-hard/udemy/react-native/course-project/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
