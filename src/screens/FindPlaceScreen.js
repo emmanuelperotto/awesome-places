@@ -5,6 +5,11 @@ import PlaceList from "../components/PlaceList/PlaceList";
 import PropTypes from "prop-types";
 
 class FindPlaceScreen extends Component {
+  constructor(props) {
+    super(props);
+    this.props.navigator.setOnNavigatorEvent(this.onNavigatorEvent);
+  }
+
   render() {
     return (
       <View>
@@ -15,6 +20,21 @@ class FindPlaceScreen extends Component {
       </View>
     );
   }
+
+  onNavigatorEvent = event => {
+    switch (event.type) {
+      case "NavBarButtonPress":
+        if (event.id === "sideDrawerToggle") {
+          this.props.navigator.toggleDrawer({
+            side: "left"
+          });
+        }
+        break;
+
+      default:
+        break;
+    }
+  };
 
   itemSelectedHandler = key => {
     const place = this.props.places.find(place => place.key === key);
