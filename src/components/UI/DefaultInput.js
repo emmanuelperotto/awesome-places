@@ -13,6 +13,7 @@ const DefaultInput = props => (
 
 const styles = StyleSheet.create({
   input: {
+    width: "100%",
     borderWidth: 1,
     borderColor: LIGHT_GRAY,
     padding: 5,
@@ -21,7 +22,7 @@ const styles = StyleSheet.create({
 });
 
 DefaultInput.propTypes = {
-  style: PropTypes.object
+  style: PropTypes.number
 };
 
 export default DefaultInput;
