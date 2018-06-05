@@ -1,21 +1,14 @@
 import React, { Component } from "react";
-import {
-  View,
-  Text,
-  Button,
-  StyleSheet,
-  ScrollView,
-  Image
-} from "react-native";
+import { View, Button, StyleSheet, ScrollView } from "react-native";
 
 import { connect } from "react-redux";
 import { addPlace } from "../store/actions";
 import PropTypes from "prop-types";
-import { BLACK, LIGHT_GRAY } from "../../colors";
-import DefaultInput from "../components/UI/DefaultInput";
 import MainText from "../components/UI/MainText";
 import HeadingText from "../components/UI/HeadingText";
-import previewImage from "../assets/beautiful-place.jpg";
+import PlaceInput from "../components/PlaceInput/PlaceInput";
+import PickImage from "../components/PickImage/PickImage";
+import PickLocation from "../components/PickLocation/PickLocation";
 
 class SharePlaceScreen extends Component {
   constructor(props) {
@@ -30,24 +23,12 @@ class SharePlaceScreen extends Component {
           <MainText>
             <HeadingText> Share a place with us!</HeadingText>
           </MainText>
-          <View style={styles.placeholder}>
-            <Image source={previewImage} style={styles.previewImage} />
-          </View>
 
-          <View style={styles.button}>
-            <Button title="Pick image" />
-          </View>
+          <PickImage />
 
-          <View style={styles.placeholder}>
-            <Text>Map preview!</Text>
-          </View>
+          <PickLocation />
 
-          <View style={styles.button}>
-            <Button title="Locate me" />
-          </View>
-
-          <DefaultInput placeholder="Place name" />
-
+          <PlaceInput />
           <View style={styles.button}>
             <Button title="Share the place!" />
           </View>
@@ -85,19 +66,8 @@ const styles = StyleSheet.create({
     flex: 1,
     alignItems: "center"
   },
-  placeholder: {
-    borderWidth: 1,
-    borderColor: BLACK,
-    backgroundColor: LIGHT_GRAY,
-    width: "80%",
-    height: 150
-  },
   button: {
     margin: 8
-  },
-  previewImage: {
-    width: "100%",
-    height: "100%"
   }
 });
 
@@ -107,4 +77,7 @@ const mapDispatchToProps = dispatch => {
   };
 };
 
-export default connect(null, mapDispatchToProps)(SharePlaceScreen);
+export default connect(
+  null,
+  mapDispatchToProps
+)(SharePlaceScreen);
