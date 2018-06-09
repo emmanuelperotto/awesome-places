@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { View, Image, Button, StyleSheet } from "react-native";
-import previewImage from "../assets/beautiful-place.jpg";
+import previewImage from "../../assets/beautiful-place.jpg";
 import { BLACK, LIGHT_GRAY } from "../../../colors";
 
 class PickImage extends Component {

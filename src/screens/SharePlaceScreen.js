@@ -11,6 +11,10 @@ import PickImage from "../components/PickImage/PickImage";
 import PickLocation from "../components/PickLocation/PickLocation";
 
 class SharePlaceScreen extends Component {
+  state = {
+    placeName: ""
+  };
+
   constructor(props) {
     super(props);
     this.props.navigator.setOnNavigatorEvent(this.onNavigatorEvent);
